@@ -12,11 +12,9 @@ A Discord bot that lets users search through PDF documents and view results as e
 
 1. Clone the repo:
         git clone https://github.com/Mkidrules/SETLookupBot
-        cd SETLookup
 
 2. Install dependencies:
 
-        pip install -r requirements.txt
 
 3. Add your PDFs to the pdfs/ folder (excluded from Git)
 
