@@ -1,1 +1,6 @@
-"venv/\n__pycache__/\n*.pyc\noutput/\n.env\n*.log" 
+venv/
+__pycache__/
+*.pyc
+output/
+.env
+.log 
