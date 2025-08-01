@@ -25,7 +25,7 @@ A Discord bot that lets users search through PDF documents and view results as e
 5. Run the bot:
         python bot.py
 
-Requirements:
+## Requirements:
 
 Python 3.10+
 
