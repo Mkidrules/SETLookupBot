@@ -26,5 +26,6 @@ A Discord bot that lets users search through PDF documents and view results as e
 ## Requirements:
 
 Python 3.10+
-
 Nextcord
+PyMuPDF
+Pillow
