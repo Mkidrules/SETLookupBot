@@ -15,7 +15,6 @@ A Discord bot that lets users search through PDF documents and view results as e
 
 2. Install dependencies:
 
-
 3. Add your PDFs to the pdfs/ folder (excluded from Git)
 
 4. Set your Discord bot token in an .env file or in config.py
@@ -26,6 +25,9 @@ A Discord bot that lets users search through PDF documents and view results as e
 ## Requirements:
 
 Python 3.10+
+
 Nextcord
+
 PyMuPDF
+
 Pillow
