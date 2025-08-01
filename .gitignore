@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 output/
 .env
-.log 
+.log
 SETLookup.code-workspace
 SETLookup.code-workspace - Shortcut.lnk
+.vscode/
